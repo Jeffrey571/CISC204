@@ -15,7 +15,7 @@ public class TextAssignmentComponent : MonoBehaviour
         TextMeshPro udidText = udidTextGameObject.GetComponent<TextMeshPro>();
 
         // Fill in this string with your name.
-        nameText.text = "Fill in your name";
+        nameText.text = "Jeffrey Santiago Browning";
         udidText.text = SystemInfo.deviceUniqueIdentifier;
     }
 
