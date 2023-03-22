@@ -1,0 +1,3 @@
+Teleport: If you hit water, you go back to the start.
+
+Level end point: If you hit the purple block, a text appears and says 'Victory'.
